@@ -1,0 +1,8 @@
+.mce-menu .mce-menu-item.mce-selected, .mce-menu .mce-menu-item:focus, .mce-menu .mce-menu-item:hover {background-color:#e5e5e5 !Important;}
+
+/* Hide outline on focus */
+#content_zilla_button { outline: none; }
+
+/* Fix icon in Wordpress 3.9 */
+
+.mce-i-zilla_button{background-image:url(../images/icon.png)!important; background-repeat:no-repeat; background-color:transparent; background-position:center center}

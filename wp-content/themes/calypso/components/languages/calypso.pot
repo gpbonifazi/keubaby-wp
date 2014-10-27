@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calypso\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: WowThemesNet <wowthemesnet@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Text in echo
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. Text in echo
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: 404.php:38
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. Text in function
+#: archive.php:12
+msgid " Category %s"
+msgstr ""
+
+#. Text in echo
+#: archive.php:12
+msgid "<i>Archives</i>"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "E-mail (not visible)"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:38
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in function
+#: functions.php:463
+msgid "%s <span class=\"\"></span>"
+msgstr ""
+
+#. Text in function
+#: functions.php:558
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-angle-left\"></i> </span> Older "
+"posts"
+msgstr ""
+
+#. Text in function
+#: functions.php:445
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: functions.php:485
+msgid "Edit comment"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: functions.php:562
+msgid ""
+"Newer posts <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i> </"
+"span>"
+msgstr ""
+
+#. Text in echo
+#: functions.php:445
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in echo
+#: functions.php:481
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: search.php:10
+msgid "Search Results for %s"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:7
+msgid "Type and hit enter"
+msgstr ""
+
+#. Text in function
+#: sendmail.php:1
+msgid "All fields are required."
+msgstr ""
+
+#. Text in function
+#: shortcodes.php:1
+msgid "E-mail address *"
+msgstr ""
+
+#. Text in function
+#: shortcodes.php:1
+msgid "Message *"
+msgstr ""
+
+#. Text in function
+#: shortcodes.php:1
+msgid "Name *"
+msgstr ""
+
+#. Text in function
+#: shortcodes.php:1
+msgid "Send"
+msgstr ""
+
+#. Text in function
+#: shortcodes.php:1
+msgid "Your message has been sent. Thank you."
+msgstr ""
+
+#. Text in function
+#: content-excerpt.php:19
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: content-excerpt.php:19
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: content-excerpt.php:19
+msgid "Comments off"
+msgstr ""
+
+#. Text in function
+#: content-excerpt.php:19
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in echo
+#: content-none.php:15
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in function
+#: content-none.php:8
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms.<br/> Please try again with "
+"some different keywords."
+msgstr ""
