@@ -1745,8 +1745,8 @@ CUSTOM TYPES SHORTCODES
 				$out .='<li style="height:'.$sliderheight.';">';
 				$out .= $img;
 				$out .= '<div class="row"><div class="flex-caption" style="top:'.$caption.';">
-						<h3 class="slidertitle wow '.$titleanim.'"><span style="color:'.$titlecolor.';">'.$title.'</span></h3>
-						<h4 class="sliderdescription wow '.$descanim.'"><span style="color:'.$desccolor.';">'.$desc.'</span></h4>
+						<h3 class="slidertitle wow '.$titleanim.'"><span class="sliderin" style="color:'.$titlecolor.';">'.$title.'</span></h3>
+						<h4 class="sliderdescription wow '.$descanim.'"><span class="sliderin" style="color:'.$desccolor.';">'.$desc.'</span></h4>
 						<span class="freearea" style="color:'.$desccolor.';">'.$free.'</span>
 						</div></div>
 						</li>';

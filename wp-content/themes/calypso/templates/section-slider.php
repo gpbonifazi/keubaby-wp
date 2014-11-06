@@ -55,8 +55,12 @@ $entries = get_post_meta( get_the_ID(), $prefix . 'repeat_group', true );
 				<div class="row">
 					
 						<div class="flex-caption" style="top:<?php echo $caption;?>;">
-							<h3 class="slidertitle wow <?php echo $titleanim;?> slow"><span style="color:<?php echo $titlecolor;?>;"><?php echo $title;?></span></h3>
-							<h4 class="sliderdescription wow <?php echo $descanim;?> slower"><span style="color:<?php echo $desccolor;?>;"><?php echo $desc;?></span></h4>
+							<h3 class="slidertitle wow <?php echo $titleanim;?> slow">
+								<span class="sliderin" style="color:<?php echo $titlecolor;?>;"><?php echo $title;?></span>
+							</h3>
+							<h4 class="sliderdescription wow <?php echo $descanim;?> slower">
+								<span class="sliderin" style="color:<?php echo $desccolor;?>;"><?php echo $desc;?></span>
+							</h4>
 							<span class="freearea" style="color:<?php echo $desccolor;?>;"><?php echo $free;?></span>
 						</div>
 					
