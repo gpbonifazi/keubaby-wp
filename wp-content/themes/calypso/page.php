@@ -117,7 +117,7 @@ global $bbwoptions;
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/shp.png" class="img-responsive" alt="">
 					</div>
 					<div class="container" id="scrolltopost">
-						<?php echo do_shortcode(get_the_content()); ?>
+						<?php the_content(); ?>
 						<?php
 						endwhile;		
 						wp_reset_query();
