@@ -31,7 +31,7 @@ function of_filter_save_media_upload($data) {
                 ),
                 array(
                     '[site_url]',
-                    '[site_url_secure]',
+                   
                 ),
                 $value
             );
@@ -59,7 +59,7 @@ function of_filter_load_media_upload($data) {
             $data[$key] = str_replace(
                 array(
                     '[site_url]', 
-                    '[site_url_secure]',
+                   
                 ),
                 array(
                     site_url('', 'http'),

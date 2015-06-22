@@ -30,11 +30,11 @@ if (isset($bbwoptions['logo_image']))
 
 if($smof_data['switch_fixedheader'] == '0') { ?>
 #page {margin-top:0;}
-.toparea {margin-bottom:-10px;}
+.toparea {margin-bottom:-6px;}
 .navbar-fixed-top, .navbar-fixed-bottom {position: relative;}
-.admin-bar .navbar-fixed-top {top: 10px;}
-.navbar {margin-bottom:10px;}
-.navbar-fixed-top {top: 10px;}
+.admin-bar .navbar-fixed-top {top: 6px;}
+.navbar {margin-bottom:6px;}
+.navbar-fixed-top {top: 6px;}
 <?php }
 
 if($bbwoptions['select_portfoliocolumnsoptions'] == "1") { ?>

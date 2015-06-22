@@ -19,7 +19,7 @@ global $smof_data;
 	<?php
 		if (isset($bbwoptions['g_select'])) {
 		if($bbwoptions['g_select'] && $bbwoptions['g_select'] != '0'): ?>
-		<link href='http://fonts.googleapis.com/css?family=<?php echo urlencode($bbwoptions['g_select']); ?>:100,200,300,400,400italic,500,600,700,700,800,900italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+		<link href='//fonts.googleapis.com/css?family=<?php echo urlencode($bbwoptions['g_select']); ?>:100,200,300,400,400italic,500,600,700,700,800,900italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
 		<?php endif; 
 		}?>
 	<?php wp_head(); ?>
