@@ -9,7 +9,7 @@ License: View license.txt
 License URI: license.txt
 Domain Path: /components/languages/
 Tags: theme-options,responsive-layout,custom-background,custom-header,translation-ready,red,gray,black,orange,pink,yellow,green,blue,left-sidebar,right-sidebar,one-column,two-columns,three-columns,four-columns,full-width-template
-Author: Giampiero Bonifazi
+Contributors: Giampiero Bonifazi - http://www.giampierobonifazi.info
 */
 
 /*==============================================* RESET*===============================================*/
@@ -3806,7 +3806,7 @@ ul#skill {
 	margin-bottom:30px;
 	font-weight:300;
 	font-style:normal;
-	text-transform:uppercase;	
+	text-transform:uppercase;
 }
 .cbp-qtrotator blockquote footer:before {
 	content:'';
@@ -4643,7 +4643,7 @@ a.reset_variations {
 	.dropdown-toggle i {
 			font-weight:700;
 	}
-	.extra-nav-class a.dropdown-toggle {			
+	.extra-nav-class a.dropdown-toggle {
 			color:#fff !important;
 			border-radius:3px 3px 0 0 !Important;
 	}
@@ -4765,7 +4765,7 @@ a.reset_variations {
 	.navbar-fixed-top {
 		border:0px;
 	}
-	
+
 	.navbar-nav>li>a {
 		text-transform:uppercase;
 	}
@@ -4799,7 +4799,7 @@ MOBILE
 /* styles for mobile */
 @media screen and (max-width: 767px) {
 
-    .tinynav { 
+    .tinynav {
 		display: block;
 		position: absolute;
 		top: 0;
@@ -4822,13 +4822,13 @@ MOBILE
 	.navbar>.container .navbar-brand {margin-top: 45px;z-index: 1;position: relative;}
 	.js .tinynav { display: block; }
     .js #nav { display: none }
-	
-	
-	
+
+
+
 }
 
 @media only screen and (min-width:768px) {
-	
+
 	.container>.navbar-collapse {
 		margin-right:-15px;
 	}
@@ -4884,7 +4884,7 @@ MOBILE
 	}
 }
 @media only screen and (max-width:400px) {
-	
+
 	.slidertitle span {
 		line-height:1.2;
 		font-size:15px;
@@ -4912,14 +4912,14 @@ MOBILE
 
 /*==============================================* DEFAULT SKIN *===============================================*/
 
-.button,input[type=submit], .stressbg, .pagination .current, .tagcloud a, #respond input[type=submit], #back-top a:hover span, .wow-pricing-table>div.featured .wow-pricing-header, .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor, .mapinfo, .servicestyle4 i, .feature-item .icon, .wowanimslider .btn.color, .block1 .btn.color, .progress .bar, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .panel-title>a, .panel-title>a.collapsed:hover, #skill i, .pageheaderpagephp .overlay, .nowidgetbottom, .navbar-nav>li.active>a,.navbar-nav>li.active>a:hover,.navbar-nav>li.active>a:focus,.navbar-nav>li>a:hover,.navbar-nav>li>a:focus,.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.extra-nav-class a.dropdown-toggle,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.open>a:focus,.nav .open>a,.nav .open>a:hover,.nav .open>a:focus,.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus ,#waccordion div h4:before, #waccordion div.active h4:before,.cbp_tmtimeline>li .cbp_tmicon,.flex-caption .btn.color,.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.buttoncolor,.woocommerce #content input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.wrapbtncta 
+.button,input[type=submit], .stressbg, .pagination .current, .tagcloud a, #respond input[type=submit], #back-top a:hover span, .wow-pricing-table>div.featured .wow-pricing-header, .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor, .mapinfo, .servicestyle4 i, .feature-item .icon, .wowanimslider .btn.color, .block1 .btn.color, .progress .bar, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .panel-title>a, .panel-title>a.collapsed:hover, #skill i, .pageheaderpagephp .overlay, .nowidgetbottom, .navbar-nav>li.active>a,.navbar-nav>li.active>a:hover,.navbar-nav>li.active>a:focus,.navbar-nav>li>a:hover,.navbar-nav>li>a:focus,.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.extra-nav-class a.dropdown-toggle,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.open>a:focus,.nav .open>a,.nav .open>a:hover,.nav .open>a:focus,.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus ,#waccordion div h4:before, #waccordion div.active h4:before,.cbp_tmtimeline>li .cbp_tmicon,.flex-caption .btn.color,.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.buttoncolor,.woocommerce #content input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.wrapbtncta
 {background-color:#f54828;}
 
-.footer-widget-area h3.widget_title::first-letter, .landingpage-button, .landingpage-button span, .landingpage-button strong, .landingpage-button i, .btn-minimal:hover, a:hover, .button.default, .stresscolor, .pretty-caption:hover,.link-caption:hover, .feature-item.shortcfeature2 .icon, .servicestyle5 i, .colortext 
+.footer-widget-area h3.widget_title::first-letter, .landingpage-button, .landingpage-button span, .landingpage-button strong, .landingpage-button i, .btn-minimal:hover, a:hover, .button.default, .stresscolor, .pretty-caption:hover,.link-caption:hover, .feature-item.shortcfeature2 .icon, .servicestyle5 i, .colortext
 {color:#f54828;}
 
-.navbar-nav>li.active>a:before,.navbar-nav>li>a:hover:before,.navbar-nav>li>a:focus:before,.extra-nav-class a.dropdown-toggle:before 
+.navbar-nav>li.active>a:before,.navbar-nav>li>a:hover:before,.navbar-nav>li>a:focus:before,.extra-nav-class a.dropdown-toggle:before
 {border-bottom:6px solid #f54828;}
 
-.light-bg .funfacts .icon, .feature-item.shortcfeature2 .icon, .wowanimslider .btn.color, .block1 .btn.color, .flex-caption .btn.color, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .woocommerce #content input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt 
+.light-bg .funfacts .icon, .feature-item.shortcfeature2 .icon, .wowanimslider .btn.color, .block1 .btn.color, .flex-caption .btn.color, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .woocommerce #content input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt
 {border-color:#f54828;}
