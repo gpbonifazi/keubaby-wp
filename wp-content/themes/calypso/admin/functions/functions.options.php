@@ -900,7 +900,7 @@ $of_options[] = array( 	"name" 		=> "Body ",
 $of_options[] = array( 	"name" 		=> "",
 						"desc" 		=> "Body Font Style",
 						"id" 		=> "body_font_style",
-						"std" 		=> array('size' => '13px','style' => '400','color' => ''),
+						"std" 		=> array('size' => '1.0em','style' => '400','color' => ''),
 						"type" 		=> "typography"
 				);  
 
